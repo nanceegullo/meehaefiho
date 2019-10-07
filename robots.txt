@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceifiajaic.ilijinlin.com/sitemap.xml
